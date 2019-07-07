@@ -16,7 +16,7 @@ namespace Blog
             var database = client.GetDatabase("Blog");
             var users = database.GetCollection<BsonDocument>("users");
 
-            var user_joe = new BsonDocument
+            var userJoe = new BsonDocument
             {
                 {"username", "jdrumgoole"},
                 {"password", "a secret"},
@@ -29,21 +29,21 @@ namespace Blog
                 },
             };
 
-            users.InsertOne(user_joe);
+            users.InsertOne(userJoe);
             Console.WriteLine("Added user_joe");
 
-            var user_jim = new BsonDocument
+            var userJim = new BsonDocument
             {
                 {"username", "jim"},
                 {"password", "a different secret"},
             };
 
             var locale = new BsonDocument();
-            locale.Add("lang", new BsonString("DE"));
-            locale.Add("currency", new BsonString("euro"));
-            user_jim.Add("locale", locale);
+            locale.Add("lang", "DE");
+            locale.Add("currency","euro");
+            userJim.Add("locale", locale);
 
-            users.InsertOne(user_jim);
+            users.InsertOne(userJim);
             Console.WriteLine("Added user_jim");
             Console.ReadKey();
         }
