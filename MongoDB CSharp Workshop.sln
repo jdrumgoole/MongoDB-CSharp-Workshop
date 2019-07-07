@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch", "Scratch\Scratch.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexes", "Indexes\Indexes.csproj", "{C1C7E441-6CAB-45F1-AB49-42E62776CB99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{58DD45F9-58FC-4E60-8327-B9196658B1E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C1C7E441-6CAB-45F1-AB49-42E62776CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C7E441-6CAB-45F1-AB49-42E62776CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C7E441-6CAB-45F1-AB49-42E62776CB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DD45F9-58FC-4E60-8327-B9196658B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DD45F9-58FC-4E60-8327-B9196658B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DD45F9-58FC-4E60-8327-B9196658B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DD45F9-58FC-4E60-8327-B9196658B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

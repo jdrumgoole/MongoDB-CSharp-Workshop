@@ -16,3 +16,21 @@ C:\Users\joe\GIT\mongodb CSharp Workshop\Scratch\obj\Debug\Scratch.csproj.CoreCo
 C:\Users\joe\GIT\mongodb CSharp Workshop\Scratch\obj\Debug\Scratch.csproj.CopyComplete
 C:\Users\joe\GIT\mongodb CSharp Workshop\Scratch\obj\Debug\Scratch.exe
 C:\Users\joe\GIT\mongodb CSharp Workshop\Scratch\obj\Debug\Scratch.pdb
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\Scratch.exe
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\Scratch.pdb
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\DnsClient.dll
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Bson.dll
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Driver.dll
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\System.Buffers.dll
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\DnsClient.xml
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Bson.xml
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Driver.xml
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\bin\Debug\System.Buffers.xml
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\obj\Debug\Scratch.csprojAssemblyReference.cache
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\obj\Debug\Scratch.csproj.CoreCompileInputs.cache
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\obj\Debug\Scratch.csproj.CopyComplete
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\obj\Debug\Scratch.exe
+C:\Users\joe\GIT\MongoDB-CSharp-Workshop\Scratch\obj\Debug\Scratch.pdb
