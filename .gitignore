@@ -349,8 +349,7 @@ healthchecksdb
 MigrationBackup/
 
 #bin and obj
-**/bin/**
-**/obj/**
 *.exe
 *.pdb
+
 
