@@ -12,7 +12,9 @@ namespace Blog
     {
         static void Main(string[] args)
         {
-            var client = new MongoClient(); // mongodb://localhost:27017 is the default
+            var client = new MongoClient();
+            // mongodb://localhost:27017 is the default
+
             var database = client.GetDatabase("Blog");
             var users = database.GetCollection<BsonDocument>("users");
 
@@ -20,6 +22,7 @@ namespace Blog
             {
                 {"username", "jdrumgoole"},
                 {"password", "a secret"},
+                {"age", 55 },
                 {
                     "locale", new BsonDocument
                     {
@@ -36,11 +39,13 @@ namespace Blog
             {
                 {"username", "jim"},
                 {"password", "a different secret"},
+                {"age", 42 }
             };
 
             var locale = new BsonDocument();
             locale.Add("lang", "DE");
             locale.Add("currency","euro");
+            locale.Add("id", 524);
             userJim.Add("locale", locale);
 
             users.InsertOne(userJim);
